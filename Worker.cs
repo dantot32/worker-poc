@@ -1,5 +1,4 @@
 namespace WorkerPoc;
-
 public class Worker : BackgroundService
 {
     private readonly ILogger<Worker> _logger;
